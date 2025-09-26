@@ -1,3 +1,4 @@
-# Welcome to [Manoochehrtayebi, Bel-Brunon & Genet, Submitted]'s demos!
+# Welcome to [[Manoochehrtayebi, Bel-Brunon & Genet (2025). Finite strain micro-poro-mechanics: formulation and compared analysis with macro-poro-mechanics, International Journal of Solids and Structures](https://doi.org/10.1016/j.ijsolstr.2025.113354)]'s demos!
 
-Demos can be browsed statically but also interactively—to start a session and run the code just click on the rocket icon at the top of a tutorial page and then click on the Binder icon.
+Demos can be browsed statically but also interactively—to start a session and run the code just click on the rocket icon at the top of a tutorial page and then click on "Binder".
+You can also launch a JupyterLab session with all tutorials: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mgenet/Micro-Macro-Poro-paper-demos/master?urlpath=lab/tree/./demos).
