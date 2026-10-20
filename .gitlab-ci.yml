@@ -7,8 +7,8 @@
 ################################################################################
 
 stages:
-  - build
-  - deploy
+#   - build
+#   - deploy
 
 # build_docker:
 #   stage: build
